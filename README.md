@@ -11,6 +11,8 @@
 ### 출력
 
 ~~~
+text = '123456'
+length = 10
 print('우측정렬 :' + wc_rjust(text, length) + ':끝')
 print('중앙정렬 :' + wc_center(text, length) + ':끝')
 print('좌측정렬 :' + wc_ljust(text, length) + ':끝')
